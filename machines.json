@@ -1,15 +1,6 @@
 {
   "allowedMachines": [
     {
-      "machineId": "8F84223397C88DDDE94B1D00026132DA5619B1B5A8EF66B8732423490E147CE077EAE1",
-      "enabled": false,
-      "status": "pending",
-      "computerName": "DESKTOP-94SUUFS",
-      "appVersion": "1.0.0+82513c9b8e383c2e2edfe579cf6affb482ae31da",
-      "requestedAt": "2026-07-26T07:59:36.892Z",
-      "lastOnline": "2026-07-26 15:59:36"
-    },
-    {
       "machineId": "8F84223397C88DDDE94B1D00026132DA5619B1B5A8EF66B8790E147CE077EAE1",
       "enabled": false,
       "status": "pending",
