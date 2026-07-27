@@ -14,12 +14,16 @@
     },
     {
       "machineId": "8F84223397C88DDDE94B1D00026132DA5619B1B5A8EF66B8790E147CE077EAE1",
-      "enabled": false,
-      "status": "pending",
+      "enabled": true,
+      "status": "approved",
       "computerName": "DESKTOP-94SUUFS",
       "appVersion": "1.0.0+cd18b2cd1bf9cc6526a500d3aa7cf5915378620c",
       "requestedAt": "2026-07-27T16:01:09.780Z",
-      "lastOnline": "2026-07-28 00:01:09"
+      "lastOnline": "2026-07-28 00:01:09",
+      "approvedAt": "2026-07-28 00:03:43",
+      "statusUpdatedAt": "2026-07-28 00:03:43",
+      "adminLinkUsedAt": "2026-07-28 00:03:43",
+      "adminLinkAction": "approve"
     }
   ]
 }
