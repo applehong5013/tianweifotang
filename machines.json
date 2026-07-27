@@ -13,14 +13,15 @@
     },
     {
       "machineId": "80EB957711987B445AE0E68679842B9E856891059A9645BCC170B429C85A9A08",
-      "enabled": false,
-      "status": "blocked",
+      "enabled": true,
+      "status": "approved",
       "computerName": "5CD52959F3",
       "appVersion": "1.0.0+cd18b2cd1bf9cc6526a500d3aa7cf5915378620c",
       "requestedAt": "2026-07-27T02:09:25.291Z",
       "lastOnline": "2026-07-27 10:12:33",
       "blockedAt": "2026-07-27 10:09:53",
-      "statusUpdatedAt": "2026-07-27 10:09:53"
+      "statusUpdatedAt": "2026-07-27 10:12:53",
+      "approvedAt": "2026-07-27 10:12:53"
     }
   ]
 }
