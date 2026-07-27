@@ -10,6 +10,15 @@
       "lastOnline": "2026-07-26 19:52:02",
       "approvedAt": "2026-07-26 18:04:49",
       "statusUpdatedAt": "2026-07-26 18:04:49"
+    },
+    {
+      "machineId": "80EB957711987B445AE0E68679842B9E856891059A9645BCC170B429C85A9A08",
+      "enabled": false,
+      "status": "pending",
+      "computerName": "5CD52959F3",
+      "appVersion": "1.0.0+cd18b2cd1bf9cc6526a500d3aa7cf5915378620c",
+      "requestedAt": "2026-07-27T02:09:25.291Z",
+      "lastOnline": "2026-07-27 10:09:25"
     }
   ]
 }
