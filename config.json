@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "kill_switch": false,
-  "enableHotKey": false,
+  "enableHotKey": true,
   "updated_at": "2026-04-01"
 }
 
